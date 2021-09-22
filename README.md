@@ -1,0 +1,32 @@
+<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
+
+# Enviando e-mails personalizados com Spring Java Mail Sender e Thymeleaf Template Engine
+
+Nessa aula aprenderemos:
+- Enviar e-mails utilizando o Java Mail Sender
+- Configurar o Gmail na aplicação
+- Enviar um email com uma simples mensagem de texto
+- Enviar um email com um template personalizado e dinâmico
+
+## Tecnologias
+
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
+- [Lombok](https://projectlombok.org/)
+- [H2 Database](https://www.h2database.com/html/quickstart.html)
+- [Thymeleaf Template Engine](https://www.thymeleaf.org/documentation.html)
+
+### Para testar todos os recursos da aplicação, utilize a collection do Postman abaixo:
+
+- [Postman Collection](https://www.getpostman.com/collections/232002cdb2886d327069)
+
+## Links úteis
+
+- [Spring Initializr](https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.5.4&packaging=jar&jvmVersion=11&groupId=com.example&artifactId=advanced-search&name=advanced-search&description=Demo%20project%20for%20Spring%20Data%20JPA%20Specifications&packageName=com.example.advanced-search&dependencies=web,devtools,data-jpa,h2,lombok)
+- [Spring Mail Doc](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mail.html)
+
+## Ambiente, recursos e requisitos necessários
+
+- Java 11+
+- Postman/Insomnia
+- Familiaridade com HTML e CSS
