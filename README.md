@@ -22,7 +22,7 @@ Nessa aula aprenderemos:
 
 ## Links úteis
 
-- [Spring Initializr](https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.5.4&packaging=jar&jvmVersion=11&groupId=com.example&artifactId=advanced-search&name=advanced-search&description=Demo%20project%20for%20Spring%20Data%20JPA%20Specifications&packageName=com.example.advanced-search&dependencies=web,devtools,data-jpa,h2,lombok)
+- [Spring Initializr](https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.5.5&packaging=jar&jvmVersion=11&groupId=com.example&artifactId=mailsender&name=spring-mail-sender-thymeleaf&description=Demo%20project%20for%20Java%20Mail%20Sender%20and%20Thymeleaf%20template%20engine&packageName=com.example.mailsender&dependencies=web,devtools,data-jpa,h2,lombok,mail,thymeleaf,validation)
 - [Spring Mail Doc](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mail.html)
 
 ## Ambiente, recursos e requisitos necessários
