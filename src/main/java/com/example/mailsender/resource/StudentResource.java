@@ -28,7 +28,8 @@ public class StudentResource {
 
     @PostMapping
     public ResponseEntity<Student> save(@Valid @RequestBody StudentRequestDto studentRequestDto) {
-        return ResponseEntity.status(HttpStatus.CREATED).body(this.studentService.save(StudentMapper.fromDto(studentRequestDto)));
+        Student student = StudentMapper.fromDto(studentRequestDto);
+        return ResponseEntity.status(HttpStatus.CREATED).body(this.studentService.save(student));
     }
 
 }
